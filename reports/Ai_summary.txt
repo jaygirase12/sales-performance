@@ -1,0 +1,16 @@
+##AI Summary
+
+## Prompt 1:“Summarize insights from my sales dashboard for a manager in 4–5 bullet points. Include growth, problem areas, and opportunities.”
+
+## AI Response:
+📊 Sales Dashboard Insights
+
+Strong Overall Sales – The company achieved $2.3M in total sales, with $0.3M profit, showing positive but modest profitability.
+
+Profit Margin Challenge – At just 12.5%, profit margin is relatively low. Discounts (avg. 15.6%) may be eroding profitability → need to review pricing/discount strategy.
+
+Growth Opportunity – Sales are showing +3.8% Month-over-Month growth, signaling upward momentum that can be capitalized on by scaling high-performing regions/products.
+
+Category Insights – Technology leads sales (~$0.8M), while Furniture and Office Supplies are similar but lower. More focus on cross-selling/up-selling in weaker categories could balance growth.
+
+Customer Concentration Risk – Top 10 customers contribute significantly to sales; heavy reliance on a few customers could be risky. Opportunity exists to expand customer base and reduce dependency.
